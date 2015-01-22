@@ -1,4 +1,4 @@
-## Lecture 2 
+# Lecture 2 
 
 __Thursday Jan 22__
 
@@ -30,6 +30,7 @@ __Why__? _simple examples, standard design, perception, focus on task, implement
 
 Outline:
 
+
  - What & why.
  - Abstraction: Tasks and Data.
  - Task Bravery: Thinking Differently.
@@ -38,7 +39,6 @@ Outline:
  - Encodings (the visual variables) & Layout.
  - Interaction and Multiple Views.
  - Graphic Design.
-
  - Graphs and Networks.
  - Multi-variate.
  - Too much stuff.
