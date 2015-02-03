@@ -1,0 +1,63 @@
+## Chapter 9 of Visual Thinking
+
+ - author: __Colin Ware__
+
+##### Notes
+
+ - "__Visual thinking__ is but a small part of the dance."
+ - 12 point review of visual cognition from book we haven't read:
+ 	1. __fovea__: Center of the eye, where attention is focused. We move this to see other things.
+ 	2. Our brains construct __visual queries__ to tell the eyes what and where to look.
+ 	3. __Orientation__, __size__, __color__, and __motion__ of each part of the image falling on the retina is determined all at once by feature-selective neurons. 
+ 	4. There are two major processing pathways called the _where_ and _what_ pathways.
+ 		- the __where__ pathway helps visually guide actions.
+ 		- the __what__ pathway helps idenify objects. 
+ 	5. All of this information is concatonated into a short lived nexus of working memories.
+ 	6. Language processing is done.
+ 	7. People point at things to connect the visual to the verbal.
+ 	8. "Small images [icons], symbols, and patterns can provide proxies
+for concepts."
+	9. "Visual queries lead to pattern searches and seeing a
+pattern" — we intuitively try to find patterns
+	10. "One basic skill of designers can be thought of as a form of
+constructive seeing. Designers can mentally add simple patterns to
+a sketch to test possible design changes before making any changes
+to the sketch."
+	11. "Activated long-term memories are essentially
+reconstructions of prior sequences of neural activity in particular
+pathways."
+	12. The brain has no central "intellegence." About 50 regions all contribute to a sense of control.
+
+> The sum of the cognitive processing that occurs in problem solving
+is moving inexorably from being mostly in the head, as it was millennia
+ago before writing and paper, to being a collaborative process that occurs
+partly in the heads of individuals and partly in computer-based cognitive
+tools.
+
+##### Active Vision Model
+The active vision model has four broad implications for design.
+
+ 1. To support the pattern-fi nding capability of the brain; that is, to turn
+information structures into patterns.
+ 2. To optimize the cognitive process as a nested set of activities.
+ 3. To take the economics of cognition into account, considering the
+cost of learning new tools and ways of seeing.
+ 4. To think about attention at many levels and design for the cognitive
+thread. 
+
+>  It is useful to think of the human and the computer together as a single
+cognitive entity, with the computer functioning as a kind of cognitive coprocessor to the human brain.
+
+
+
+## Discussion.
+
+I was a big fan of the following line (and concept in general) from the first reading:
+
+> It is useful to think of the human and the computer together as a single
+cognitive entity, with the computer functioning as a kind of cognitive coprocessor to the human brain.
+
+I like the fact that Ware doesn't just say that visualizations are tools but that they linked with the users own cognition.
+
+We generally think about abstraction in computer science as building on top of lower techlogocial frameworks. But perhaps at a certain level abstraction builds ontop of your own mental capacity instead.
+

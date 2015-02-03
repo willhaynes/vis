@@ -1,6 +1,6 @@
-## Assignment 1
+## Seek and Find Assignment 1 [link](http://graphics.cs.wisc.edu/WP/vis15/2015/01/17/seek-and-find-assignment-1-bring-me-a-visualization/)
 
-__Will Haynes__
+__Will Haynes__. _Due by Thursday, January 22nd @ 8 a.m_.
 
 > What is this visualization?
 
